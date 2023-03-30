@@ -1,4 +1,4 @@
-# GPT4IE
+# GPT3.5_IE
 ## Description
 
 GPT3.5_IE (GPT3.5 for Information Extraction) is a open-source and powerful IE tool [demo](http://124.221.16.143:8080/).
